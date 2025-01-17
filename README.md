@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm vishakha bhojak</h1>
-<h3 align="center">FRONTEND DEVLOPER</h3>
+<h3 align="center">Web DEVLOPER</h3>
 
 - 🌱 I’m currently learning **[ MERN FULL STACK DEVELOPMENT]**
 
